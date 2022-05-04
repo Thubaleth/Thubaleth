@@ -1,0 +1,36 @@
+body {
+  font-family: arial;
+    color: #232323;
+	text-align: center;
+	align: center;
+	background-color: #d2d6de;
+}
+
+.frmDronpDown {
+    border: 1px solid #dedede;
+    background-color: #FFF;
+    padding: 40px 60px 20px 60px;
+    border-radius: 3px;
+    display: inline-block;
+}
+
+.demoInputBox {
+  height: 45;
+  width: 100%;
+  outline: none;
+  font-size: 16px;
+  border-radius: 5px;
+  padding-left: 15px;
+  border: 1px solid #ccc;
+  border-bottom-width: 2px;
+  transition: all 0.3s ease;
+}
+
+.row {
+    margin-bottom: 25px;
+    position: relative;
+}
+
+.loader {
+    background: url(../../images/loader.gif) no-repeat center right 15px;
+}
